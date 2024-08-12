@@ -1,5 +1,7 @@
 <h2 align="left">Olá, meu nome é Pedro Lucas</h2>
+<hr>
 
+###
 
 <p align="left">⚡porém sou mais conhecido como Sparkle na internet.<br>📖Estou estudando programação, então qualquer ajuda/critica construtiva é bem vinda!<br>👾Apaixonado no mundo dev</p>
 
