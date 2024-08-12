@@ -14,6 +14,7 @@
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Pedrlord.Pedrlord&right_color=orangered&left_text=PROFILE%20VIEWS"  />
+<br>
 <hr>
 
 ###
